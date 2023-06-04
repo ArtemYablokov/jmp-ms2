@@ -1,4 +1,4 @@
-package yablokovs;
+package com.yablokovs;
 
 
 import org.springframework.cloud.openfeign.FeignClient;

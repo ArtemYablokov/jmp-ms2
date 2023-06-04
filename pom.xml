@@ -12,6 +12,7 @@
         <module>eureka</module>
         <module>one-business</module>
         <module>two-business</module>
+        <module>api-gateway</module>
     </modules>
 
     <properties>

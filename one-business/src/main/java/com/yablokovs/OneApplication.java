@@ -1,4 +1,4 @@
-package yablokovs;
+package com.yablokovs;
 
 import com.netflix.discovery.EurekaClient;
 import org.springframework.beans.factory.annotation.Autowired;
