@@ -10,6 +10,8 @@
     <packaging>pom</packaging>
     <modules>
         <module>eureka</module>
+        <module>one-business</module>
+        <module>two-business</module>
     </modules>
 
     <properties>
