@@ -1,6 +1,8 @@
 spring:
   application:
     name: two-application
+  zipkin:
+    base-url: http://localhost:9411
 server:
   port: 0
 eureka:
