@@ -13,6 +13,7 @@
         <module>one-business</module>
         <module>two-business</module>
         <module>api-gateway</module>
+        <module>archaius</module>
     </modules>
 
     <properties>

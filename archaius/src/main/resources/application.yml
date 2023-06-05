@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: archaius-fake
+  config:
+    import: 'optional:consul:'
+  cloud:
+    consul:
+      host: localhost
+      port: 8500
+      config:
+        format: yaml
+        enabled: true
